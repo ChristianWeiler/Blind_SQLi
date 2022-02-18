@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Boolean SQLi exploitation script
+# based on the technique described in https://www.exploit-db.com/papers/17073
+
 import requests
 import sys 
 import urllib3
